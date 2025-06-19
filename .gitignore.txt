@@ -1,0 +1,24 @@
+# Vivado build/output folders
+.cache/
+.gen/
+.hw/
+.runs/
+.sim/
+.ip_user_files/
+
+# Logs and temp
+*.jou
+*.log
+*.pb
+*.str
+*.tmp
+*.wdb
+*.xprj
+*.obj
+*.dmp
+*.bak
+
+# Simulation auto files
+*.vvp
+*.vcd
+*.vhw
