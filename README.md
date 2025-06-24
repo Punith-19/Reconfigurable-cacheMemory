@@ -2,7 +2,7 @@ This project implements a simple **cache memory system** in Verilog using **bloc
 It simulates how a real CPU cache checks for data hits/misses and interacts with memory to improve performance.
 
 Vivado version needed: -version 2023.2
-download zip file or clone repo using git clone https://github.com/yourusername/Reconfigurable_cacheMemory.git
+download zip file or clone repo using git clone https://github.com/Punith-19/Reconfigurable_cacheMemory.git
 extract zip file and run Vivado project file named reconfig cache mem
 
 Folder Structure:
