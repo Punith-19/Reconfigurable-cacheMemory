@@ -1,0 +1,65 @@
+# Vivado project files
+*.xpr
+*.xpr~
+*.xise
+*.xml
+*.log
+*.jou
+*.str
+*.wdb
+*.pb
+*.dmp
+*.bak
+*.tmp
+*.bgn
+
+# Simulation generated
+*.vvp
+*.vcd
+*.vhw
+*.wlf
+*.ini
+*.prj
+*.db
+*.pb
+*.svtype
+*.mem
+*.xdbg
+*.xsvf
+*.xsim*
+*.vlog
+*.vlogpb
+
+# Vivado generated folders
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+.webtalk/
+.xgui/
+.fpgas/
+
+# Simulation intermediate output
+**/xsim.dir/
+**/behav/
+**/obj/
+
+# System temp
+*.DS_Store
+Thumbs.db
+
+# Windows batch/shell temp files
+*.bat
+*.sh
+*.log
+*.tcl
+*.exe
+*.bin
+
+# Others
+*.backup
+*.orig
+*.swp
+*.swo
